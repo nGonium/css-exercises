@@ -1,0 +1,18 @@
+.odd {
+    background-color: pink;
+}
+
+.odd.cool {
+    font-size: larger;
+}
+
+#div-1 {
+    color: blue;
+    font-size: x-large;
+}
+
+#div-2 {
+    background-color: lightgreen;
+    font-size: larger;
+    font-weight: bold;
+}
