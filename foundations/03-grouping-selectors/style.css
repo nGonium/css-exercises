@@ -1,0 +1,14 @@
+.btn-big {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    border-color: beige;
+}
+
+.btn-dark {
+    background-color: black;
+    color: white;
+}
+
+.btn-light {
+    background-color: yellow;
+}
